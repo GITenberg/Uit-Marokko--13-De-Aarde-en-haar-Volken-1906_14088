@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5364'
     url: http://www.gutenberg.org/2009/agents/5364
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14088#Uit-Marokko--13-De-Aarde-en-haar-Volken-1906
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2004-11-18'
 gutenberg_type: Text
